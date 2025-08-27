@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Daniel 🇧🇬</h1>
 <p align="center">
   <a href="https:/www.linkedin.com/in/daniel-nikolow/">
-    <img align="center" alt="Nikolay's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
+    <img align="center" alt="Daniel's LinkedIn" width="30px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" />
   </a> &nbsp;&nbsp;&nbsp;
 </p><br>
 
