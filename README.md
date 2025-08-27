@@ -29,7 +29,7 @@
 <br>
 
 # 🏋️‍♂️ Hobbies
-- Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills<br><br>
+- Tenis, Fitnes, Chess, Reading, Learning new skills<br><br>
 
 # ✉️ Contact
 - You can connect with me any time through my email - danielnikolow13@gmail.com
