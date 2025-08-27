@@ -8,9 +8,6 @@
 # 🎓 Education
 - **Software University (SoftUni)** - Successfully completed the full Java path, including courses in Programming Basics, Programming Fundamentals, Java Advanced, Java OOP, HTML & CSS, JS Front-end, MySQL, Spring Data, Spring Fundamentals, and Spring Advanced. <br><br>
 
-# 🚀 Top Projects
-- 💬 **Chatty** - This chat app was developed for my SoftUni exam project. It features a Node.js back-end, a React front-end, user-to-user messaging, theme switching, and profile picture customization. - https://github.com/nikolay508/MERN-Real-Time-Chat-App <br><br> 
-
 # </> Technologies and tools
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
