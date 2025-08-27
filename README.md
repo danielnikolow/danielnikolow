@@ -20,7 +20,7 @@
 <br>
 
 # 🏋️‍♂️ Hobbies
-- Tenis, Fitnes, Chess, Reading, Learning new skills<br><br>
+- Tennis, Fitnes, Chess, Reading, Learning new skills<br><br>
 
 # ✉️ Contact
 - You can connect with me any time through my email - danielnikolow13@gmail.com
