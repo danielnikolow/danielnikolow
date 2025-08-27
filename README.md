@@ -32,4 +32,4 @@
 - Calisthenics, Football, Basketball, Chess, Reading, Voluntary work, Learning new skills<br><br>
 
 # ✉️ Contact
-- You can connect with me any time through my email - nikolay.b.todorov@gmail.com
+- You can connect with me any time through my email - danielnikolow13@gmail.com
