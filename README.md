@@ -9,8 +9,7 @@
 </p><br>
 
 # 🎓 Education
-- **Software University (SoftUni)** - Successfully completed the full Java path, including courses in
-- Programming Basics, Programming Fundamentals, Java Advanced, Java OOP, HTML & CSS, JS Front-end, MySQL, Spring Data, Spring Fundamentals, and Spring Advanced. <br><br>
+- **Software University (SoftUni)** - Successfully completed the full Java path, including courses in Programming Basics, Programming Fundamentals, Java Advanced, Java OOP, HTML & CSS, JS Front-end, MySQL, Spring Data, Spring Fundamentals, and Spring Advanced. <br><br>
 
 # 💻 Work
 - **Backend Developer at Dreamshot** - Working on and developing the backend of the games we build, I contribute by writing sustainable code, crafting precise tests, and ensuring everything runs smoothly. I collaborate closely with designers and developers, conduct code reviews, and troubleshoot technical issues.<br><br>
