@@ -24,7 +24,7 @@
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
 <img align="left" alt="postgresql" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="supabase" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" />
+<img align="left" alt="supabase" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/thymeleaf/thymeleaf-original.svg" />
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" /><br><br>
 <br>
 
